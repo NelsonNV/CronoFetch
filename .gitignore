@@ -1,0 +1,10 @@
+# Configuración con datos sensibles
+config.lua
+config.jsonc
+
+# Historial generado dinámicamente
+history.log
+history.lua
+state/
+
+
